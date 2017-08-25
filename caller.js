@@ -23,7 +23,7 @@ if(a_to_vh==false)
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="/2017/08/the-benefits-of-naked-sleep.html"}
-if(x=="2"){xxx="/2017/08/the-benefits-of-naked-sleep.html"}
+if(x=="2"){xxx="/2017/08/the-benefits-of-sports.html"}
 if(x=="3"){xxx="/2017/08/tips-to-increase-endurance.html"}
 if(x=="4"){xxx="/2017/08/the-importance-of-maintaining-health.html"}
 if(x=="5"){xxx="/2017/08/health-is-very-important.html"}a_to_ve[i].href="http://www.theonlyway.ga"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
